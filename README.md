@@ -78,7 +78,7 @@ In essence, I'm someone who's not only committed to personal and professional gr
   - Text extraction
   - Text conversion
 
-### Delegation Generator
+### Business Trips Generator
 
 ![Delegation Generator](assets/delegation_screenshot.png) 
 
